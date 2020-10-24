@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 
 
 #  类名
-class_names = ['KuLi', 'DuLanTe']
+class_names = ['face']
 #  xml文件路径，train_images只需改为val_images就可以处理val_images的了
 path = 'data/val_images/'
 
