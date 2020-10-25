@@ -5,7 +5,8 @@ import xml.etree.ElementTree as ET
 #  类名
 class_names = ['face']
 #  xml文件路径，train_images只需改为val_images就可以处理val_images的了
-path = 'data/val_images/'
+path1 = 'data/train_images/'
+path2 = 'data/val_images/'
 
 #  转换一个xml文件为txt
 def single_xml_to_txt(xml_file):
@@ -39,4 +40,5 @@ def dir_xml_to_txt(path):
 		single_xml_to_txt(xml_file)
 
 
-dir_xml_to_txt(path)
+dir_xml_to_txt(path1)
+dir_xml_to_txt(path2)
