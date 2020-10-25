@@ -1,13 +1,13 @@
 <annotation>
-	<folder>val_images</folder>
-	<filename>41.jpg</filename>
-	<path>D:\GitHub\YOLO_images_script\val_images\41.jpg</path>
+	<folder>train_images</folder>
+	<filename>14.jpg</filename>
+	<path>D:\GitHub\YOLO_images_script\train_images\14.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>499</width>
-		<height>333</height>
+		<width>480</width>
+		<height>318</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>147</xmin>
-			<ymin>51</ymin>
-			<xmax>228</xmax>
-			<ymax>158</ymax>
+			<xmin>114</xmin>
+			<ymin>40</ymin>
+			<xmax>165</xmax>
+			<ymax>101</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>351</xmin>
-			<ymin>11</ymin>
-			<xmax>428</xmax>
-			<ymax>97</ymax>
+			<xmin>321</xmin>
+			<ymin>5</ymin>
+			<xmax>371</xmax>
+			<ymax>65</ymax>
 		</bndbox>
 	</object>
 </annotation>
