@@ -12,14 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>face</name>
+		<name>curry</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>238</xmin>
-			<ymin>13</ymin>
-			<xmax>345</xmax>
+			<xmin>233</xmin>
+			<ymin>14</ymin>
+			<xmax>342</xmax>
 			<ymax>155</ymax>
 		</bndbox>
 	</object>

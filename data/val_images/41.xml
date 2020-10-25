@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>face</name>
+		<name>curry</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>147</xmin>
-			<ymin>51</ymin>
-			<xmax>228</xmax>
-			<ymax>158</ymax>
+			<xmin>150</xmin>
+			<ymin>55</ymin>
+			<xmax>224</xmax>
+			<ymax>155</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>face</name>
+		<name>durant</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>351</xmin>
-			<ymin>11</ymin>
-			<xmax>428</xmax>
-			<ymax>97</ymax>
+			<xmin>357</xmin>
+			<ymin>13</ymin>
+			<xmax>423</xmax>
+			<ymax>98</ymax>
 		</bndbox>
 	</object>
 </annotation>
