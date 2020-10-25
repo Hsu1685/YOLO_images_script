@@ -6,21 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>533</width>
-		<height>300</height>
+		<width>416</width>
+		<height>416</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>curry</name>
+		<name>target</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>308</xmin>
-			<ymin>32</ymin>
-			<xmax>377</xmax>
-			<ymax>105</ymax>
+			<xmin>346</xmin>
+			<ymin>187</ymin>
+			<xmax>389</xmax>
+			<ymax>220</ymax>
 		</bndbox>
 	</object>
 </annotation>

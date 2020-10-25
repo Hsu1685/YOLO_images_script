@@ -6,21 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>500</width>
-		<height>347</height>
+		<width>416</width>
+		<height>416</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>durant</name>
+		<name>target</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>270</xmin>
-			<ymin>33</ymin>
-			<xmax>336</xmax>
-			<ymax>125</ymax>
+			<xmin>86</xmin>
+			<ymin>83</ymin>
+			<xmax>272</xmax>
+			<ymax>274</ymax>
 		</bndbox>
 	</object>
 </annotation>

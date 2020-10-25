@@ -6,33 +6,33 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>400</width>
-		<height>302</height>
+		<width>416</width>
+		<height>416</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>durant</name>
+		<name>target</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>155</xmin>
-			<ymin>10</ymin>
-			<xmax>224</xmax>
-			<ymax>104</ymax>
+			<xmin>167</xmin>
+			<ymin>72</ymin>
+			<xmax>292</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>curry</name>
+		<name>target</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>216</xmin>
-			<ymin>60</ymin>
-			<xmax>282</xmax>
-			<ymax>141</ymax>
+			<xmin>50</xmin>
+			<ymin>68</ymin>
+			<xmax>117</xmax>
+			<ymax>156</ymax>
 		</bndbox>
 	</object>
 </annotation>
