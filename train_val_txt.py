@@ -1,4 +1,5 @@
-#此代码和data文件夹同目录
+#  此代码和data文件夹同目录
+#  產生data中train_images及val_images資料夾中的文件清單txt
 import glob
 
 path = 'data/'
