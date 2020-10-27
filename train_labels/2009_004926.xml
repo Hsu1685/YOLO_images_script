@@ -1,0 +1,27 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2009_004926.xml</filename>
+	<path>Datasets_mine/labeled/head_voc\labels/2009_004926.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>224</ymin>
+			<xmax>199</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	
+</annotation>	

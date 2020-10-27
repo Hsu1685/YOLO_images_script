@@ -1,0 +1,27 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2007_003747.xml</filename>
+	<path>Datasets_mine/labeled/head_voc\labels/2007_003747.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>417</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>151</ymin>
+			<xmax>88</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+	
+</annotation>	

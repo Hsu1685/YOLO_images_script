@@ -1,0 +1,39 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2011_002212.xml</filename>
+	<path>Datasets_mine/labeled/head_voc\labels/2011_002212.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>76</ymin>
+			<xmax>338</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>76</ymin>
+			<xmax>338</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+	
+</annotation>	

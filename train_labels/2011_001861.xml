@@ -1,0 +1,39 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2011_001861.xml</filename>
+	<path>Datasets_mine/labeled/head_voc\labels/2011_001861.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>116</ymin>
+			<xmax>143</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>116</ymin>
+			<xmax>143</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	
+</annotation>	
