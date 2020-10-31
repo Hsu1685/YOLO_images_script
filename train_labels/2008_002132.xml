@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>2008_002132.xml</filename>
-	<path>Datasets_mine/labeled/head_voc\labels/2008_002132.xml</path>
+	<folder>train_images</folder>
+	<filename>2008_002132.jpg</filename>
+	<path>D:\GitHub\YOLO_images_script\train_images\2008_002132.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>107</xmin>
+			<xmin>106</xmin>
 			<ymin>131</ymin>
-			<xmax>137</xmax>
+			<xmax>136</xmax>
 			<ymax>174</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>107</xmin>
-			<ymin>131</ymin>
-			<xmax>137</xmax>
-			<ymax>174</ymax>
+			<xmin>386</xmin>
+			<ymin>143</ymin>
+			<xmax>416</xmax>
+			<ymax>186</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>107</xmin>
-			<ymin>131</ymin>
-			<xmax>137</xmax>
-			<ymax>174</ymax>
+			<xmin>327</xmin>
+			<ymin>138</ymin>
+			<xmax>353</xmax>
+			<ymax>181</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>107</xmin>
-			<ymin>131</ymin>
-			<xmax>137</xmax>
-			<ymax>174</ymax>
+			<xmin>269</xmin>
+			<ymin>144</ymin>
+			<xmax>299</xmax>
+			<ymax>187</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>107</xmin>
-			<ymin>131</ymin>
-			<xmax>137</xmax>
-			<ymax>174</ymax>
+			<xmin>208</xmin>
+			<ymin>145</ymin>
+			<xmax>238</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,23 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>154</xmin>
+			<xmin>151</xmin>
 			<ymin>139</ymin>
 			<xmax>182</xmax>
-			<ymax>177</ymax>
+			<ymax>181</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>head</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>154</xmin>
-			<ymin>139</ymin>
-			<xmax>182</xmax>
-			<ymax>177</ymax>
-		</bndbox>
-	</object>
-	
-</annotation>	
+</annotation>

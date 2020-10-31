@@ -1,20 +1,20 @@
 <annotation>
-	<folder>images</folder>
-	<filename>2009_001979.xml</filename>
-	<path>Datasets_mine/labeled/head_voc\labels/2009_001979.xml</path>
+	<folder>train_images</folder>
+	<filename>2009_001979.jpg</filename>
+	<path>D:\GitHub\YOLO_images_script\train_images\2009_001979.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
 		<height>375</height>
-		<depth>3</depth>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>head</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>239</xmin>
@@ -23,5 +23,28 @@
 			<ymax>166</ymax>
 		</bndbox>
 	</object>
-	
-</annotation>	
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>40</ymin>
+			<xmax>220</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>64</ymin>
+			<xmax>467</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

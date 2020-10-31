@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>2011_000732.xml</filename>
-	<path>Datasets_mine/labeled/head_voc\labels/2011_000732.xml</path>
+	<folder>train_images</folder>
+	<filename>2011_000732.jpg</filename>
+	<path>D:\GitHub\YOLO_images_script\train_images\2011_000732.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,11 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>272</xmin>
-			<ymin>163</ymin>
-			<xmax>357</xmax>
-			<ymax>232</ymax>
+			<xmin>270</xmin>
+			<ymin>165</ymin>
+			<xmax>355</xmax>
+			<ymax>234</ymax>
 		</bndbox>
 	</object>
-	
-</annotation>	
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>182</ymin>
+			<xmax>273</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>
