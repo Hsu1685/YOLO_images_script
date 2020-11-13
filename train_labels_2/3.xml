@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_images</folder>
+	<filename>3.jpg</filename>
+	<path>D:\GitHub\YOLO_images_script\train_images\3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1577</xmin>
+			<ymin>526</ymin>
+			<xmax>2085</xmax>
+			<ymax>1226</ymax>
+		</bndbox>
+	</object>
+</annotation>
