@@ -1,5 +1,5 @@
-classes= 1
+classes= 2
 train  = data/train.txt
 valid  = data/val.txt
-names = data/head.names
+names = data/head_person.names
 backup = backup/
