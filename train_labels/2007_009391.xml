@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train_images</folder>
+	<filename>2007_009391.jpg</filename>
+	<path>D:\GitHub\YOLO_images_script\train_images\2007_009391.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>343</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>148</ymin>
+			<xmax>190</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>148</ymin>
+			<xmax>227</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

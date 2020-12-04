@@ -6,7 +6,7 @@ import os
 import random
 import shutil
 from shutil import copy2
-trainfiles = os.listdir('train_images_2/')#（圖片資料夾要修改）
+trainfiles = os.listdir('train_images/')#（圖片資料夾要修改）
 num_train = len(trainfiles)
 print( "num_train: " + str(num_train) )
 index_list = list(range(num_train))
@@ -16,7 +16,7 @@ num = 0
 trainDir = 'data/train_images/'#（将图片文件夹中的8/10份放在这个文件夹下）
 validDir = 'data/val_images/'#（将图片文件夹中的2/10份放在这个文件夹下）
 for i in index_list:
-    fileName = os.path.join('train_images_2/', trainfiles[i])#（圖片資料夾要修改）
+    fileName = os.path.join('train_images/', trainfiles[i])#（圖片資料夾要修改）
     if num < num_train*0.8:
         print(str(fileName))
         copy2(fileName, trainDir)

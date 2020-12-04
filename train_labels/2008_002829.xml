@@ -1,0 +1,39 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2008_002829.xml</filename>
+	<path>Datasets_mine/labeled/head_voc\labels/2008_002829.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>101</ymin>
+			<xmax>222</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+	
+<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>91</ymin>
+			<xmax>253</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,39 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2011_001743.xml</filename>
+	<path>Datasets_mine/labeled/head_voc\labels/2011_001743.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>42</ymin>
+			<xmax>312</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+	
+<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>42</ymin>
+			<xmax>329</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

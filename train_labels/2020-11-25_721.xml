@@ -1,0 +1,25 @@
+<annotation>
+	<folder>temp_images</folder>
+	<filename>2020-11-25_721.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>985</xmin>
+			<ymin>714</ymin>
+			<xmax>1105</xmax>
+			<ymax>834</ymax>
+		</bndbox>
+	</object>
+</annotation>
